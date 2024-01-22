@@ -1,7 +1,7 @@
 <h1 align="center">Olá, Mundo! 👋 Eu sou < Tales Guilherme ></h1>
 <h3 align="center">Especialista em Codar e passar café</h3>
 
-- 🔭 Atualmente estou trabalhando no projeto **"Site de login - Cadastro e Login**
+- 🔭 Atualmente estou trabalhando no projeto **"Site de login - Cadastro e Login"**
 
 - 🌱 Atualmente estou aprendendo **Python e PHP**
 
