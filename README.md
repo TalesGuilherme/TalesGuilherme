@@ -1,9 +1,9 @@
 <h1 align="center">Olá, Mundo! 👋 Eu sou < Tales Guilherme ></h1>
 <h3 align="center">Especialista em Codar e passar café</h3>
 
-- 🔭 Atualmente estou trabalhando no projeto **"Olá, todo Mundo!" uma biografia rápida sobre mim**
+- 🔭 Atualmente estou trabalhando no projeto **"Site de login - Cadastro e Login**
 
-- 🌱 Atualmente estou aprendendo **Html5, CSS, JavaScript e Python**
+- 🌱 Atualmente estou aprendendo **Python e PHP**
 
 - 📫 Você pode entrar em contato comigo através do email: **taleszoned@gmail.com**
 
